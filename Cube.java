@@ -1,3 +1,12 @@
+// Feedback:
+//  Looks pretty good! I think the majority of the functionality asked for is present and it seems to work ok.
+//  It is a little bit tough to read and to use/understand as a user but I think its just fine. You may want
+//  to organize it a bit better but otherwise I think you could get quite close to a perfect implementation 
+//  with this codebase.
+//  
+//   Good Job!
+
+
 
 public class Cube {
 	
@@ -429,4 +438,4 @@ for(int i =0; i<face1.length; i++)
 		
 		
   }
-}
+
